@@ -40,7 +40,7 @@ body                            { padding-top:20px; }
 #form-views.ng-leave            { 
     -webkit-animation:slideOutLeft 0.5s both ease;
     -moz-animation:slideOutLeft 0.5s both ease;
-    animation:slideOutLeft 0.5s both ease;   
+    animation:slideOutLeft 0.5s both ease;
 }
 
 @keyframes slideOutLeft {
